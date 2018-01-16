@@ -1,10 +1,11 @@
-hy {
+
+.bur {
 	color: red;
 	text-decoration: underline;
-	style="font-weight:bold"
+	font-weight:bold;
 
 }
 
-bur {
-	style="background-color: #FFFF00">Yellow text
+.hy {
+	background-color: #FFFF00;
 }
