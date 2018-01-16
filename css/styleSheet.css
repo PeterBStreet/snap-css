@@ -1,11 +1,9 @@
-
 .bur {
 	color: red;
 	text-decoration: underline;
-	font-weight:bold;
-
+	font-weight: bold;
 }
 
-.hy {
-	background-color: #FFFF00;
+#hy {
+	background-color: yellow;
 }
